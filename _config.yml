@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Susan Paudel"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Ph.D student, Applied Economics"
   location         : "Athens, Georgia"
   employer         : "University of Georgia"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  "www.linkedin.com/in/susan-paudel-b7904722b"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
