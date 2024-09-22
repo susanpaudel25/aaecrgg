@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Susan Paudel / Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Susan Paudel"
+description              : &description "Personal description"
 URL                      : "https://susanpaudel25.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/aaecrgg" # the subpath of your site, e.g. "/blog"
 repository               : "susanpaudel25/aaecrgg"
@@ -22,13 +22,13 @@ repository               : "susanpaudel25/aaecrgg"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Susan Paudel"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D in Applied Economics"
+  location         : "Athens, Georgia"
+  employer         : "University of Georgia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Susan.Paudel@uga.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
